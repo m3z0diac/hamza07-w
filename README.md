@@ -6,7 +6,7 @@ I'm Hamza from Morocco, and I study software devlopment at schoole, and learning
 
 Skills: PYTHON / PHP / C++ / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 My Github State. 
 
 
 
