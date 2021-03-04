@@ -3,7 +3,7 @@ I'm Hamza from Morocco, and I study software devlopment at schoole, and learning
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamza07-w&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza07-w&layout=demo&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza07-w&show_icons=true)
+
 
 
 
