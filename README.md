@@ -18,6 +18,6 @@ Skills: PYTHON / PHP / C++ / HTML / CSS
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamza07-w&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza07-w&layout=demo&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hamza07-w) 
 
 
