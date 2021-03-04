@@ -1,5 +1,4 @@
-### Hi there 👋
-### Hi there 👋, Hamza Elansari
+###Hamza Elansari
 #### Programmer and Problems solver
 ![Programmer and Problems solver](hamzaansari.jpg)
 
