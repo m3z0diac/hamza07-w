@@ -1,4 +1,4 @@
-## __Hamza Elansari🦅__
+## __🦅Hamza Elansari🦅__
 ### Hi there 👋, Programmer and Problems solver
 ![Profile views](https://gpvc.arturio.dev/hamza07-w)  
 ![Programmer and Problems solver](https://github.com/hamza07-w/hamza07-w/blob/main/hamzaansari.jpg)
