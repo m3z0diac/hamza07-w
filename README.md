@@ -1,5 +1,5 @@
 ## __🦅Hamza Elansari__
-### Hi there 👋, Programmer and Problems solver //yes flag is your goal//
+### Hi there 👋, Programmer and Problems solver 
 ![Profile views](https://gpvc.arturio.dev/hamza07-w)  
 ![Programmer and Problems solver](https://github.com/hamza07-w/hamza07-w/blob/main/hamzaansari.jpg)
 ## __🦅About me__
