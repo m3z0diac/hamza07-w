@@ -1,6 +1,6 @@
 ## __🦅Hamza Elansari__
 ### Hi there 👋, Programmer, Problems solver.. just I have fun with writing some stuff
-![Profile views](https://gpvc.arturio.dev/hamza07-w)  
+  
 ![Programmer and Problems solver](https://github.com/hamza07-w/hamza07-w/blob/main/hamzaansari.jpg)
 ## __🦅About me__
 I'm Hamza from Morocco, and Im studying network and webapp penatration testing , I love cyber security in general, and i'm in love with  ..
