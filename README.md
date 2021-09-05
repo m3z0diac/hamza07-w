@@ -1,5 +1,4 @@
 ## __🦅Hamza Elansari__
-### Hi there 👋, Programmer, Problems solver.. just I have fun with writing some stuff
 ![Programmer and Problems solver](https://raw.githubusercontent.com/remonsec/remonsec/main/assets/deku_ready.gif)
 ## __🦅About me__
 ### I'm Hamza from Morocco, and Im studying network and webapp penatration testing , I love cyber security in general, and i'm in love with  ..
