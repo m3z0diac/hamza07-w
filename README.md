@@ -1,7 +1,7 @@
 ## __🦅Hamza Elansari__
 ![Programmer and Problems solver](https://raw.githubusercontent.com/remonsec/remonsec/main/assets/deku_ready.gif)
 ## __🦅About me__
-### I'm Hamza from Morocco, and Im studying network and webapp penatration testing , I love cyber security in general, and i'm in love with  ..
+### I'm  Hamza Elansari Also Known As m3z0diac, and Im studying network and webapp penatration testing , I love cyber security in general, and i'm in love with  ..
 
 ## __🦅contact me__
 
