@@ -1,5 +1,5 @@
 ## __🦅Hamza Elansari__
-![Programmer and Problems solver](https://tryhackme-badges.s3.amazonaws.com/hamzaa07w.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/hamzaa07w.png" alt="TryHackMe">
 ## __🦅About me__
 ### I'm  Hamza Elansari Also Known As m3z0diac, Member At HK-GANG Community,
  full stack web devloper, network and web applications penatration tester
