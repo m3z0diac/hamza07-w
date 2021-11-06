@@ -4,7 +4,8 @@
   <br>
   <samp>
     Make things stronger by breaking them<br>
-    Hello! I'm  Hamza Elansari Also Known As <b><a rel="nofollow noopener noreferrer" target="_blank" href="hamza07-w.github.io/portfolio/">m3z0diac</a></b>.
+    <img src="https://hamza07-w.github.io/portfolio/img/hamza.jpg" width="200"/>
+    Hello! I'm  Hamza Elansari Also Known As <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://hamza07-w.github.io/portfolio/">m3z0diac</a></b>.
     <br>full stack web devloper - security researcher - ctf player and creator<br>
 
   </samp>
