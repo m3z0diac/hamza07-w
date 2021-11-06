@@ -7,16 +7,16 @@
     Hello! I'm  Hamza Elansari Also Known As <b><a rel="nofollow noopener noreferrer" target="_blank" href="hamza07-w.github.io/portfolio/">m3z0diac</a></b>.
     <br>full stack web devloper - security researcher - ctf player and creator<br>
 
-</samp>
+  </samp>
 
 </p>
 
 
 
 ## contact me
-
+<p align="center">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hamza07-w)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hamza-elansari-897663202/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hamza.elansari.py)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hamza07.py/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/m3z0diac)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14997851)
-
+</P>
 
 ## My Github State
 
