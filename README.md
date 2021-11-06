@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <samp>
-    M a k e   t h i n g s   s t r o n g e r   b y   b r e a k i n g   t h e m <br>
+    Make things stronger by breaking them<br>
     Hello! I'm  Hamza Elansari Also Known As <b><a rel="nofollow noopener noreferrer" target="_blank" href="hamza07-w.github.io/portfolio/">m3z0diac</a></b>.
     <br>full stack web devloper - security researcher - ctf player and creator<br>
 
