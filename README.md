@@ -3,11 +3,9 @@
 <p align="center">
   <br>
   <samp>
-
     <img src="https://hamza07-w.github.io/portfolio/img/hamza.jpg" width="200"/><br>
     Hello! I'm  Hamza Elansari Also Known As <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://hamza07-w.github.io/portfolio/">m3z0diac</a></b>.
     <br>full stack web developer - security researcher - ctf player and creator<br>
-
   </samp>
 
 </p>
