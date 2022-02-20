@@ -14,9 +14,12 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hamza07-w) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hamza.elansari.py)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hamza07.py/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/m3z0diac)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14997851)
 
-## Github State
+### ⚙️ &nbsp;GitHub Analytics
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamza07-w&show_icons=true&theme=chartreuse-dark)
-
+<p align="center">
+<a href="https://github.com/hamza07-w">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hamza07-w&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamza07-w&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
