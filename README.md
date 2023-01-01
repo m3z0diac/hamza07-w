@@ -3,7 +3,8 @@
 <p align="center">
   <br>
   <samp>
-{
+ ```js
+ {
   {
     fullname    : 'Hamza Elansari',
     interest    : {
@@ -31,6 +32,7 @@
                   },
   },
 }
+```
   </samp>
 
 </p>
