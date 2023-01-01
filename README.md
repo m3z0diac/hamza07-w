@@ -3,7 +3,34 @@
 <p align="center">
   <br>
   <samp>
-    <br>full stack web developer - security researcher - ctf player and creator<br>
+{
+  {
+    fullname    : 'Hamza Elansari',
+    interest    : {
+                    0 : 'software developement',
+                    1 : 'cyber security',
+                    3 : 'AI & ML'
+                  },
+    specialist  : {
+                    0 : 'web developement'
+                  },
+    Tools       : {
+                    0 : 'JavaScript',
+                    1 : 'PHP',
+                    2 : 'python'
+                    3 : 'C#',
+                    4 : 'C/C++',
+                    5 : 'html/css'
+                  },
+    frameworks  : {
+                    0 : 'Laravel',
+                    1 : 'AspMVC.net',
+                    2 : 'Bootstrap',
+                    3 : 'React',
+                    4 : 'jQuery'
+                  },
+  },
+}
   </samp>
 
 </p>
