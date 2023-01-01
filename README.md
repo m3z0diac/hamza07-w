@@ -1,7 +1,7 @@
 ## whoami
 
 <p align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/hamza07-w/hamza07-w/main/carbon.png"/>
+  <img height="80%" src="https://raw.githubusercontent.com/hamza07-w/hamza07-w/main/carbon.png"/>
 
 </p>
 
