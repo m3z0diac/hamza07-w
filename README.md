@@ -54,7 +54,7 @@ func GetBio() Bio {
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">Visitor's count 2023 :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{hamza07-w}/count.svg" alt="hamza07-w :: Visitor's Count" /></p>
 
