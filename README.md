@@ -46,8 +46,8 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Hamza Elansari's Facebook Profile" height="30" width="30">
   </a>
   
-  <a href="https://medium.com/@ajzavala">
-    <img src="https://medium.com/@m3z0diac" alt="Hamza Elansari's Medium Profile" height="30" width="30">
+  <a href="https://medium.com/@m3z0diac">
+    <img src="[https://medium.com/@m3z0diac](https://www.vectorlogo.zone/logos/medium/medium-icon.svg)" alt="Hamza Elansari's Medium Profile" height="30" width="30">
   </a>
   
 </p>
