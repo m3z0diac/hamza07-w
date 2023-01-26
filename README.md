@@ -19,7 +19,7 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "I love anything related to web developement and cyber security stuff especialy red teaming, exploit/malware developement. By day I learn new technologies in order to improve my coding skills and by night I love enjoying creating and playing CTFs and do some bug hunting. ",
+		"- ⚡ Quick bio:":                    "I love anything related to coding / software developement and cyber security. ",
 		"- 🔭 I’m currently working on":      "Marsa Maroc Internship",
 		"- 🌱 I’m currently learning":        "ReactJs",
 		"- 👯 I’m looking to collaborate on": "Python, JS and ML Libraries and Models related projects",
