@@ -53,6 +53,9 @@ func GetBio() Bio {
 	 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
 	 	<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 	 </a>
+	 <a href="https://reactjs.org//" target="_blank" rel="noreferrer"> 
+	 	<img src="https://www.vectorlogo.zone/logos/react/react-icon.svg" alt="react" width="40" height="40"/>
+	 </a>
 
 
 <h2 align="center">You can reach me at :alien:</h2>
