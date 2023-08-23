@@ -20,11 +20,10 @@ func main() {
 func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "I love anything related to coding / software developement and cyber security. ",
-		"- 🔭 I’m currently working on":      "Marsa Maroc Internship",
+		"- 🔭 I’m currently working on":      "Marsa Maroc as software developer & IT support",
 		"- 🌱 I’m currently learning":        "ReactJs",
-		"- 👯 I’m looking to collaborate on": "Python, JS and ML Libraries and Models related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to ML & AI 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, C/C++, Web-Dev and Some Fields in Cyber Security",
+		"- 🤔 I’m looking for help with":     "Anything related to Malware developement & analyse",
+		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, C/C++, Web-Dev and Some Low Levels",
 		"- 📫 How to reach me:":              "https://github.com/hamza07-w",
 	}
 }
